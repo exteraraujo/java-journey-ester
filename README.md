@@ -4,7 +4,7 @@ This repository contains all the steps, exercises, and projects from my complete
 
 The goal of this repository is to track my learning journey and serve as a personal record of the progress I make throughout the course.
 
-Technologies Used
+Technologies Used: 
 Java (latest version)
 
 Eclipse IDE
@@ -62,5 +62,5 @@ Modularity in Java: Organizing code into modules for better maintainability.
 
 NoSQL Databases: Exploring NoSQL databases and how to interact with them in Java.
 
-My Learning Progress
+My Learning Progress: 
 This repository will document my progress in the course, with each exercise and project reflecting my growth in Java programming. As I complete new sections, I will update this repository with the latest projects and lessons.
