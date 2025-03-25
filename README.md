@@ -1,5 +1,5 @@
 # java-journey-ester
-This repository contains examples and exercises done during the Java course. The goal is to practice Java concepts while exploring the creation of small projects, algorithms, and solutions to typical programming challenges
+This repository contains examples and exercises completed during my Java course. The goal is to practice Java concepts while working through assignments provided by the course instructor.
 
 Technologies Used:
 Java 8+
@@ -7,20 +7,17 @@ Java 8+
 Installation:
 Clone this repository to your local machine:
 
-bash
+bash:
 Copiar código
 git clone https://github.com/your-username/curso-java.git
 Navigate to the project folder:
 
-bash
+bash:
 Copiar código
 cd curso-java
 Open the project in your preferred IDE, such as IntelliJ IDEA or Eclipse, and start working.
 
-How to Use
+How to Use:
 Open the main class (Main.java) and run the code.
 
 Modify or add more features as the course progresses.
-
-Contributing
-Feel free to contribute! Fork this repository, create a branch, and submit a pull request with your improvements
