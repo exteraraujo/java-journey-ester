@@ -6,15 +6,11 @@ Java 8+
 
 Installation:
 Clone this repository to your local machine:
-
-bash:
-Copiar código
 git clone https://github.com/your-username/curso-java.git
-Navigate to the project folder:
 
-bash:
-Copiar código
+Navigate to the project folder:
 cd curso-java
+
 Open the project in your preferred IDE, such as IntelliJ IDEA or Eclipse, and start working.
 
 How to Use:
