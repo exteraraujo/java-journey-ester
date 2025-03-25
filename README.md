@@ -1,10 +1,10 @@
 # java-journey-ester
 This repository contains examples and exercises done during the Java course. The goal is to practice Java concepts while exploring the creation of small projects, algorithms, and solutions to typical programming challenges
 
-Technologies Used
+Technologies Used:
 Java 8+
 
-Installation
+Installation:
 Clone this repository to your local machine:
 
 bash
